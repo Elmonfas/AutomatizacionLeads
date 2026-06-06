@@ -1,0 +1,7 @@
+.env
+leads.csv
+leads_data.json
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

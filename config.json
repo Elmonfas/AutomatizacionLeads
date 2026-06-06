@@ -1,0 +1,12 @@
+{
+  "search_query": "peluquería Ruzafa Valencia",
+  "max_results": 30,
+  "freelancer_name": "Pedro",
+  "freelancer_city": "Valencia",
+  "output_file": "leads.csv",
+  "delays": {
+    "min_seconds": 2,
+    "max_seconds": 5
+  },
+  "pagespeed_strategy": ["mobile", "desktop"]
+}
